@@ -1,0 +1,1 @@
+char *cptr = 404; // compile error
